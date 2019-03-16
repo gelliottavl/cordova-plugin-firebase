@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "37588972860",
+    "firebase_url": "https://elated-graph-86818.firebaseio.com",
+    "project_id": "elated-graph-86818",
+    "storage_bucket": "elated-graph-86818.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:37588972860:android:baf615808a55eb41",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.mckesson.healthmart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "37588972860-htr8htseg3i2njih6ej8bm742p8tfkih.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyC6OpoPJ-swk2jTm_cWToX3OczkOt2FCNk"
         }
       ],
       "services": {
